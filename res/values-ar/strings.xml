@@ -1109,7 +1109,7 @@
     <string name="Set_friendly_name_">حدد اسما لصديقك.</string>
     <string name="Leave_blank_for_none_">اترك فراغا لعدم التغيير.</string>
     <string name="Vote_Kick">طرد اللاعب</string>
-    <string name="FONT">نوع الخط</string>
+    <string name="FONT">الخط</string>
     <string name="CIRCLE">دائرة</string>
     <string name="SQUARES">مربعات</string>
     <string name="TRICK_MODE">طور الحركات</string>
@@ -1338,7 +1338,7 @@ Commands:
     <string name="Complete_campaign_mission_">أكمل مهمات الحملة</string>
     <string name="Specify_Reason_">حدد السبب:</string>
     <string name="FREE_FOR_ALL">حر للجميع</string>
-    <string name="SPECIAL">مميز</string>
+    <string name="SPECIAL">خاص</string>
     <string name="FREE">مجانا</string>
     <string name="x5_Clan_XP_1_Day">مسرع العشيرةX5  لمدة يوم واحد </string>
     <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبع ايام</string>
